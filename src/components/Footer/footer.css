@@ -1,0 +1,71 @@
+.end {
+    width: 100%;
+    height: 300px;
+    background-color: #3a3a3a;
+  }
+  .theend {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+  }
+  .company {
+    width: 20%;
+  }
+  .company p {
+    font-size: 20px;
+    color: #ffffff;
+    margin-left: 3%;
+  }
+  .company1 {
+    font-size: 14px;
+    color: #bcbbbb;
+    margin-left: auto;
+    line-height: 30px;
+  }
+  .information {
+    width: 20%;
+  }
+  .information p {
+    font-size: 20px;
+    color: #ffffff;
+  }
+  .information1 {
+    font-size: 14px;
+    color: #bcbbbb;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+  }
+  .contacts {
+    width: 20%;
+  }
+  .contacts p {
+    font-size: 20px;
+    color: #ffffff;
+  }
+  .contacts1 {
+    font-size: 14px;
+    color: #bcbbbb;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+  }
+  .social {
+    width: 20%;
+  }
+  .social p {
+    font-size: 20px;
+    color: white;
+  }
+  .social1 {
+    font-size: 14px;
+    color: #bcbbbb;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+  }
+  
